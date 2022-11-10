@@ -1,6 +1,6 @@
 # Classification of numbers
 
-## Goals:
+## Goals
 
 - Recognize numbers drawn on paper 
 - Find the best model for the job
